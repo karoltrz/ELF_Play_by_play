@@ -1,0 +1,37 @@
+ELF_plays_2022 columns description (all data from ELF official site):
+- game_id - unique ID for game, combination of game date, first 3 letters of away team and first 3 letters of home team
+- game_date - game date in format YYMMDD
+- away_team - away team
+- home_team - home team
+- drive_num - number of the drive in the game
+- pos_team - team that has the ball (offensive formation) in current play
+- drive_plays - number of plays in the drive
+- drive_yards - number of yards gained or lost during that drive
+- drive_time - how much time the drive took
+- down - down for the specific play
+- yds_to_go - yards to next first down
+- field_pos - field position 
+- play - type of play or event
+- situation - descriptive information about the play
+- passer - name of player that through the pass
+- receiver - name of player that caught the pass
+- intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass
+- rec_yds - yards gained/loss due to pass play
+- rusher - name of player that run with the ball in run play
+- rush_yds - yards gained/lost in a run play
+- td - if play resulted in TD - 1, if not - 0
+- pat - if play resulted in point after touchdown - 1, if not - 0
+- fg - if play resulted in field goal - 1, if not - 0
+- punt_yds - number of yards that the ball traveled during punt play
+- kickoff_yds - number of yards that the ball traveled during kickoff play
+- fumble - if play resulted in fumble - 1, if not - 0
+- def_player_action - name/names of players who made defensive action (tackle, sack, int etc.)
+- int - if play resulted in interception - 1, if not - 0
+- int_player - if play resulted in interception name of the player that intercepted the ball
+- sack - if play resulted in sack - 1, if not - 0
+- sack_yds - number of yards lost by offense due to sack
+- timeout- if timeout was taken - 1 in not - 0
+- penalty - if there was penalty - 1 if not - 0
+- penalty_type - type of the penalty
+- penalty_team - team which was penalized
+- penalty_player - player that have caused the penalty
