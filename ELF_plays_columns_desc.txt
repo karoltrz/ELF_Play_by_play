@@ -13,7 +13,7 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - field_pos - field position 
 - play - type of play or event
 - situation - descriptive information about the play
-- passer - name of player that through the pass
+- passer - name of player that threw the pass
 - receiver - name of player that caught the pass
 - intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass
 - rec_yds - yards gained/loss due to pass play
