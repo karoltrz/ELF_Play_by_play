@@ -15,8 +15,9 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - situation - descriptive information about the play
 - passer - name of player that threw the pass
 - receiver - name of player that caught the pass
-- intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass
+- intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass (if information available)
 - rec_yds - yards gained/loss due to pass play
+- pass_comp - if pass completed then 1, if incomplete then 0
 - rusher - name of player that run with the ball in run play
 - rush_yds - yards gained/lost in a run play
 - td - if play resulted in TD - 1, if not - 0
@@ -35,3 +36,6 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - penalty_type - type of the penalty
 - penalty_team - team which was penalized
 - penalty_player - player that have caused the penalty
+- fum_player - player who fumbled the ball
+- fum_recov_player - player who recovered the ball
+- fum_recov_team - team that recovered the ball
