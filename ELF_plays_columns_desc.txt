@@ -22,6 +22,7 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - passing_yds - yards gained/loss due to pass play
 - rusher - name of player that run with the ball in run play
 - rush_yds - yards gained/lost in a run play
+- yds_gained_per_play - yards gained in pass or rush play
 - td - if play resulted in TD - 1, if not - 0
 - pass_td - if play resulted in passing td - 1, if not - 0
 - rush_td - if play resulted in rushing td - 1, if not - 0
