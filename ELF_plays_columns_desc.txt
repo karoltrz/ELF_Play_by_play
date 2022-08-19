@@ -17,12 +17,16 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - passer - name of player that threw the pass
 - receiver - name of player that caught the pass
 - intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass (if information available)
-- rec_yds - yards gained/loss due to pass play
 - pass_comp - if pass completed then 1, if incomplete then 0
+- rec_yds - yards gained/loss due to pass play
 - rusher - name of player that run with the ball in run play
 - rush_yds - yards gained/lost in a run play
 - td - if play resulted in TD - 1, if not - 0
-- pat - if play resulted in point after touchdown - 1, if not - 0
+- pat - if point after touchdown kick was good - 1, if not - 0. There is inconsistency in the source data - sometimes
+PAT are listed as a separate play and sometimes there are listed in line with TD play, therefore you might see situations
+where there will be PAT attempt indicated in column PAT but the information in column play will say Rush or Pass instead
+of Point after try
+- pat_kicker - player that was kicking the PAT
 - fg - if play resulted in field goal - 1, if not - 0
 - punt_yds - number of yards that the ball traveled during punt play
 - kickoff_player - kicker name
@@ -38,6 +42,7 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - timeout- if timeout was taken - 1 in not - 0
 - penalty - if there was penalty - 1 if not - 0
 - penalty_type - type of the penalty
+- penalty_yds - for how many yards the penalty was enforced
 - penalty_team - team which was penalized
 - penalty_player - player that have caused the penalty
 - fumble - if there was a fumble on a play 1, if not - 0
