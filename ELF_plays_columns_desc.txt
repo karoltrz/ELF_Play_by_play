@@ -1,9 +1,8 @@
 ELF_plays_2022 columns description (all data from ELF official site):
-- game_id - unique ID for game, combination of game date, first 3 letters of away team and first 3 letters of home team
-- game_date - game date in format YYMMDD
-- away_team - away team
-- home_team - home team
-- drive_num - number of the drive in the game
+- play - type of play or event
+- situation - descriptive information about the play
+- qtr - quarter in which play took place
+- drive_num - drive number in the game
 - pos_team - team that has the ball (offensive formation) in current play
 - drive_plays - number of plays in the drive
 - drive_yards - number of yards gained or lost during that drive
@@ -11,8 +10,10 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - down - down for the specific play
 - yds_to_go - yards to next first down
 - field_pos - field position 
-- play - type of play or event
-- situation - descriptive information about the play
+- home_team - home team
+- away_team - away team
+- game_date - game date in format YYMMDD
+- game_id - unique ID for game, combination of game date, first 3 letters of away team and first 3 letters of home team
 - passer - name of player that threw the pass
 - receiver - name of player that caught the pass
 - intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass (if information available)
