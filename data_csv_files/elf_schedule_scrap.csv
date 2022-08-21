@@ -99,3 +99,103 @@
 97,2022,August,"Sunday, August 14, 2022",15:00,CET,Innsbruck,Stuttgart Surge,Raiders Tirol,3,44,11
 98,2022,August,"Saturday, August 20, 2022",18:00,CET,Reus,Stuttgart Surge,Barcelona Dragons,,,12
 99,2022,August,"Sunday, August 21, 2022",15:00,CET,Berlin,Hamburg Sea Devils,Berlin Thunder,,,12
+0,2021,June,"Saturday, June 19, 2021",18:00,,Cologne Centurions,Panthers Wroclaw,39,55,1,2021ColPan
+1,2021,June,"Saturday, June 19, 2021",19:00,,Stuttgart Surge,Barcelona Dragons,21,17,1,2021StuBar
+2,2021,June,"Sunday, June 20, 2021",15:00,,Frankfurt Galaxy,Hamburg Sea Devils,15,17,1,2021FraHam
+3,2021,June,"Sunday, June 20, 2021",15:00,,Leipzig Kings,Berlin Thunder,37,27,1,2021LeiBer
+4,2021,June,"Saturday, June 26, 2021",18:00,,Leipzig Kings,Panthers Wroclaw,28,54,1,2021LeiPan
+5,2021,June,"Sunday, June 27, 2021",15:00,,Barcelona Dragons,Cologne Centurions,12,40,1,2021BarCol
+6,2021,June,"Sunday, June 27, 2021",15:00,,Frankfurt Galaxy,Stuttgart Surge,42,20,2,2021FraStu
+7,2021,July,"Saturday, July 3, 2021",19:00,,Barcelona Dragons,Hamburg Sea Devils,32,14,3,2021BarHam
+8,2021,July,"Sunday, July 4, 2021",15:00,,Panthers Wroclaw,Frankfurt Galaxy,13,22,3,2021PanFra
+9,2021,July,"Sunday, July 4, 2021",15:00,,Cologne Centurions,Leipzig Kings,48,47,3,2021ColLei
+10,2021,July,"Sunday, July 4, 2021",15:00,,Berlin Thunder,Stuttgart Surge,19,40,3,2021BerStu
+11,2021,July,"Sunday, July 11, 2021",15:00,Cologne,Frankfurt Galaxy,Cologne Centurions,41,20,4,2021FraCol
+12,2021,July,"Sunday, July 11, 2021",15:00,,Leipzig Kings,Stuttgart Surge,24,27,4,2021LeiStu
+13,2021,July,"Sunday, July 11, 2021",18:00,,Berlin Thunder,Hamburg Sea Devils,6,44,4,2021BerHam
+14,2021,July,"Saturday, July 17, 2021",18:00,,Barcelona Dragons,Frankfurt Galaxy,22,42,5,2021BarFra
+15,2021,July,"Sunday, July 18, 2021",15:00,,Panthers Wroclaw,Berlin Thunder,45,26,5,2021PanBer
+16,2021,July,"Sunday, July 18, 2021",15:00,,Hamburg Sea Devils,Leipzig Kings,55,0,5,2021HamLei
+17,2021,July,"Saturday, July 24, 2021",15:00,,Hamburg Sea Devils,Panthers Wroclaw,26,23,6,2021HamPan
+18,2021,July,"Saturday, July 24, 2021",19:00,,Berlin Thunder,Barcelona Dragons,16,48,6,2021BerBar
+19,2021,July,"Sunday, July 25, 2021",15:00,,Cologne Centurions,Stuttgart Surge,39,23,6,2021ColStu
+20,2021,July,"Saturday, July 31, 2021",18:00,,Barcelona Dragons,Hamburg Sea Devils,17,22,7,2021BarHam
+21,2021,August,"Sunday, August 1, 2021",15:00,,Stuttgart Surge,Frankfurt Galaxy,3,57,7,2021StuFra
+22,2021,August,"Sunday, August 1, 2021",15:00,,Panthers Wroclaw,Cologne Centurions,31,33,7,2021PanCol
+23,2021,August,"Sunday, August 1, 2021",15:00,,Berlin Thunder,Leipzig Kings,24,37,7,2021BerLei
+24,2021,August,"Saturday, August 7, 2021",19:00,,Cologne Centurions,Barcelona Dragons,51,60,8,2021ColBar
+25,2021,August,"Sunday, August 8, 2021",15:00,,Hamburg Sea Devils,Frankfurt Galaxy,9,35,8,2021HamFra
+26,2021,August,"Sunday, August 8, 2021",15:00,,Stuttgart Surge,Leipzig Kings,23,49,8,2021StuLei
+27,2021,August,"Saturday, August 14, 2021",13:00,,Hamburg Sea Devils,Berlin Thunder,28,20,9,2021HamBer
+28,2021,August,"Sunday, August 15, 2021",15:00,,Frankfurt Galaxy,Panthers Wroclaw,36,7,9,2021FraPan
+29,2021,August,"Sunday, August 15, 2021",15:00,,Barcelona Dragons,Stuttgart Surge,30,12,9,2021BarStu
+30,2021,August,"Saturday, August 21, 2021",15:00,,Leipzig Kings,Cologne Centurions,42,24,10,2021LeiCol
+31,2021,August,"Sunday, August 22, 2021",13:00,,Barcelona Dragons,Berlin Thunder,3,19,10,2021BarBer
+32,2021,August,"Sunday, August 22, 2021",15:00,,Panthers Wroclaw,Hamburg Sea Devils,30,24,10,2021PanHam
+33,2021,August,"Saturday, August 28, 2021",19:00,,Frankfurt Galaxy,Barcelona Dragons,22,14,11,2021FraBar
+34,2021,August,"Sunday, August 29, 2021",13:00,,Berlin Thunder,Panthers Wroclaw,12,35,11,2021BerPan
+35,2021,August,"Sunday, August 29, 2021",15:00,,Leipzig Kings,Hamburg Sea Devils,18,17,11,2021LeiHam
+36,2021,August,"Sunday, August 29, 2021",17:00,,Stuttgart Surge,Cologne Centurions,9,19,11,2021StuCol
+37,2021,September,"Sunday, September 5, 2021",15:00,,Cologne Centurions,Frankfurt Galaxy,7,45,12,2021ColFra
+38,2021,September,"Sunday, September 5, 2021",15:00,,Berlin Thunder,Stuttgart Surge,38,0,12,2021BerStu
+39,2021,September,"Sunday, September 5, 2021",15:00,,Panthers Wroclaw,Leipzig Kings,21,13,12,2021PanLei
+40,2021,September,"Saturday, September 11, 2021",14:45,,Cologne Centurions,Frankfurt Galaxy,6,36,13,2021ColFra
+41,2021,September,"Sunday, September 12, 2021",14:45,Hamburg,Panthers Wroclaw,Hamburg Sea Devils,27,30,13,2021PanHam
+42,2021,September,"Sunday, September 26, 2021",15:00,Düsseldorf,Hamburg Sea Devils,Frankfurt Galaxy,30,32,14,2021HamFra
+43,2021,October,"Sunday, October 3, 2021",15:30,,USA,All Star Team,8,26,14,2021USAAll
+44,2022,June,"Saturday, June 4, 2022",17:00,Cologne,Istanbul Rams,Cologne Centurions,38,40,1,2022IstCol
+45,2022,June,"Sunday, June 5, 2022",15:00,Wrocław,Leipzig Kings,Panthers Wroclaw,27,34,1,2022LeiPan
+46,2022,June,"Sunday, June 5, 2022",15:00,Frankfurt,Rhein Fire,Frankfurt Galaxy,29,26,1,2022RheFra
+47,2022,June,"Sunday, June 5, 2022",15:00,Innsbruck,Vienna Vikings,Raiders Tirol,29,23,1,2022VieRai
+48,2022,June,"Sunday, June 5, 2022",15:00,Stuttgart,Barcelona Dragons,Stuttgart Surge,38,9,1,2022BarStu
+49,2022,June,"Sunday, June 5, 2022",15:00,Hamburg,Berlin Thunder,Hamburg Sea Devils,18,43,1,2022BerHam
+50,2022,June,"Saturday, June 11, 2022",15:00,Cologne,Raiders Tirol,Cologne Centurions,46,49,2,2022RaiCol
+51,2022,June,"Saturday, June 11, 2022",15:00,Berlin,Istanbul Rams,Berlin Thunder,7,41,2,2022IstBer
+52,2022,June,"Sunday, June 12, 2022",15:00,Leipzig,Rhein Fire,Leipzig Kings,28,17,2,2022RheLei
+53,2022,June,"Sunday, June 12, 2022",15:00,Stuttgart,Panthers Wroclaw,Stuttgart Surge,28,25,2,2022PanStu
+54,2022,June,"Sunday, June 12, 2022",15:00,Vienna,Frankfurt Galaxy,Vienna Vikings,10,30,2,2022FraVie
+55,2022,June,"Sunday, June 12, 2022",15:00,Hamburg,Barcelona Dragons,Hamburg Sea Devils,24,21,2,2022BarHam
+56,2022,June,"Saturday, June 18, 2022",18:00,Reus,Cologne Centurions,Barcelona Dragons,32,34,3,2022ColBar
+57,2022,June,"Saturday, June 18, 2022",18:00,Leipzig,Hamburg Sea Devils,Leipzig Kings,14,0,3,2022HamLei
+58,2022,June,"Sunday, June 19, 2022",15:00,Vienna,Stuttgart Surge,Vienna Vikings,13,42,3,2022StuVie
+59,2022,June,"Sunday, June 19, 2022",15:00,Duisburg,Istanbul Rams,Rhein Fire,12,42,3,2022IstRhe
+60,2022,June,"Sunday, June 19, 2022",15:00,Frankfurt,Panthers Wroclaw,Frankfurt Galaxy,13,47,3,2022PanFra
+61,2022,June,"Sunday, June 19, 2022",15:00,Innsbruck,Berlin Thunder,Raiders Tirol,16,28,3,2022BerRai
+62,2022,June,"Saturday, June 25, 2022",15:00,Istanbul,Vienna Vikings,Istanbul Rams,49,0,4,2022VieIst
+63,2022,June,"Saturday, June 25, 2022",17:00,Cologne,Frankfurt Galaxy,Cologne Centurions,48,12,4,2022FraCol
+64,2022,June,"Sunday, June 26, 2022",15:00,Wrocław,Hamburg Sea Devils,Panthers Wroclaw,26,23,4,2022HamPan
+65,2022,June,"Sunday, June 26, 2022",15:00,Stuttgart,Raiders Tirol,Stuttgart Surge,33,0,4,2022RaiStu
+66,2022,June,"Sunday, June 26, 2022",15:00,Berlin ,Leipzig Kings,Berlin Thunder,19,15,4,2022LeiBer
+67,2022,June,"Sunday, June 26, 2022",15:00,Duisburg,Barcelona Dragons,Rhein Fire,17,13,4,2022BarRhe
+68,2022,July,"Saturday, July 2, 2022",15:00,Cologne,Berlin Thunder,Cologne Centurions,34,7,5,2022BerCol
+69,2022,July,"Saturday, July 2, 2022",18:00,Reus,Istanbul Rams,Barcelona Dragons,7,41,5,2022IstBar
+70,2022,July,"Sunday, July 3, 2022",15:00,Hamburg,Rhein Fire,Hamburg Sea Devils,15,42,5,2022RheHam
+71,2022,July,"Sunday, July 3, 2022",15:00,Vienna Vikings,Panthers Wroclaw,Vienna Vikings,6,30,5,2022PanVie
+72,2022,July,"Sunday, July 3, 2022",15:00,Innsbruck,Frankfurt Galaxy,Raiders Tirol,17,23,5,2022FraRai
+73,2022,July,"Sunday, July 3, 2022",15:00,Leipzig,Stuttgart Surge,Leipzig Kings,22,28,5,2022StuLei
+74,2022,July,"Saturday, July 9, 2022",15:00,Istanbul,Hamburg Sea Devils,Istanbul Rams,70,0,6,2022HamIst
+75,2022,July,"Saturday, July 9, 2022",18:00,Reus,Vienna Vikings,Barcelona Dragons,27,20,6,2022VieBar
+76,2022,July,"Sunday, July 10, 2022",15:00,Berlin,Panthers Wroclaw,Berlin Thunder,25,31,6,2022PanBer
+77,2022,July,"Sunday, July 10, 2022",15:00,Stuttgart,Frankfurt Galaxy,Stuttgart Surge,26,20,6,2022FraStu
+78,2022,July,"Sunday, July 10, 2022",15:00,Duisburg,Cologne Centurions,Rhein Fire,3,17,6,2022ColRhe
+79,2022,July,"Sunday, July 10, 2022",15:00,Innsbruck,Leipzig Kings,Raiders Tirol,6,37,6,2022LeiRai
+80,2022,July,"Sunday, July 17, 2022",15:00,Leipzig ,Berlin Thunder,Leipzig Kings,33,22,7,2022BerLei
+81,2022,July,"Sunday, July 17, 2022",15:00,Frankfurt ,Cologne Centurions,Frankfurt Galaxy,14,46,7,2022ColFra
+82,2022,July,"Sunday, July 17, 2022",15:00,Wroclaw,Stuttgart Surge,Panthers Wroclaw,0,34,7,2022StuPan
+83,2022,July,"Saturday, July 23, 2022",15:00,Istanbul,Barcelona Dragons,Istanbul Rams,19,22,8,2022BarIst
+84,2022,July,"Sunday, July 24, 2022",15:00,Duisburg,Hamburg Sea Devils,Rhein Fire,40,16,8,2022HamRhe
+85,2022,July,"Sunday, July 24, 2022",15:00,Vienna,Raiders Tirol,Vienna Vikings,13,29,8,2022RaiVie
+86,2022,July,"Saturday, July 30, 2022",18:00,Reus,Rhein Fire,Barcelona Dragons,23,33,9,2022RheBar
+87,2022,July,"Sunday, July 31, 2022",15:00,Wroclaw,Frankfurt Galaxy,Panthers Wroclaw,30,29,9,2022FraPan
+88,2022,July,"Sunday, July 31, 2022",15:00,Hamburg,Istanbul Rams,Hamburg Sea Devils,26,29,9,2022IstHam
+89,2022,July,"Sunday, July 31, 2022",15:00,Leipzig,Raiders Tirol,Leipzig Kings,56,14,9,2022RaiLei
+90,2022,July,"Sunday, July 31, 2022",15:00,Stuttgart,Vienna Vikings,Stuttgart Surge,41,0,9,2022VieStu
+91,2022,July,"Sunday, July 31, 2022",15:00,Berlin,Cologne Centurions,Berlin Thunder,29,39,9,2022ColBer
+92,2022,August,"Saturday, August 13, 2022",15:00,Istanbul,Rhein Fire,Istanbul Rams,50,32,11,2022RheIst
+93,2022,August,"Saturday, August 13, 2022",17:00,Cologne,Barcelona Dragons,Cologne Centurions,37,15,11,2022BarCol
+94,2022,August,"Sunday, August 14, 2022",13:00,Hamburg,Leipzig Kings,Hamburg Sea Devils,0,59,11,2022LeiHam
+95,2022,August,"Sunday, August 14, 2022",15:00,Wroclaw,Berlin Thunder,Panthers Wroclaw,29,12,11,2022BerPan
+96,2022,August,"Sunday, August 14, 2022",15:00,Frankfurt,Vienna Vikings,Frankfurt Galaxy,8,42,11,2022VieFra
+97,2022,August,"Sunday, August 14, 2022",15:00,Innsbruck,Stuttgart Surge,Raiders Tirol,3,44,11,2022StuRai
+98,2022,August,"Saturday, August 20, 2022",18:00,Reus,Stuttgart Surge,Barcelona Dragons,,,12,2022StuBar
+99,2022,August,"Sunday, August 21, 2022",15:00,Berlin,Hamburg Sea Devils,Berlin Thunder,,,12,2022HamBer
