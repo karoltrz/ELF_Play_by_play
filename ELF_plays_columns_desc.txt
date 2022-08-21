@@ -8,12 +8,20 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - drive_yards - number of yards gained or lost during that drive
 - drive_time - how much time the drive took
 - down - down for the specific play
-- yds_to_go - yards to next first down
+- yds_to_1st_down - yards to next first down
 - field_pos - field position 
-- home_team - home team
-- away_team - away team
 - game_date - game date in format YYMMDD
 - game_id - unique ID for game, combination of game date, first 3 letters of away team and first 3 letters of home team
+- season - season in which game took place
+- month - month in which game took place
+- date_full - full date of the game
+- game_hour - time at which the the game started
+- stadium_city - city in which game took place
+- away_team - away team
+- home_team - home team
+- away_team_final_score	- points by awayteam at the end of the game
+- home_team_final_score	- points by home team at the end of the game
+- game_week - week of the season in which the game took place
 - passer - name of player that threw the pass
 - receiver - name of player that caught the pass
 - intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass (if information available)
