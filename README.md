@@ -8,6 +8,6 @@ It currently holds 3 scripts:<br>
   
 It also contains additional none code files:<br>
 	1. Txt file which contains general descriptions for all columns<br>
-	2. Xlsx files updated weekly during the season (one file for one season with play by play data and second one with all time schedule) that has all the data scraped and saved in the final version with all available columns.
+	2. Xlsx files updated weekly during the season (one file for one season with play by play data and second one with season schedule) that has all the data scraped and saved in the final version with all available columns.
     
 In the future code and other files are going to be updated with more columns containing additional information.
