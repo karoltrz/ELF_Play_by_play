@@ -48,16 +48,19 @@ of Point after try
 - kickoff_returner - kickoff returner name
 - kickoff_ret_yds - amount of yards that the kick was returned for
 - punt - if there was a punt on the play - 1, if not - 0
+- punt_td - if a play resulted in punt touchdown - 1, if not - 0
 - punt_yds - number of yards that the ball traveled during punt play
 - punter - name of punter
 - timeout - if timeout was taken - 1 in not - 0
 - def_player_action - name/names of players who made defensive action (tackle, sack, int etc.)
 - int - if play resulted in interception - 1, if not - 0
+- int_td - interception resulting in touchdown 
 - int_player - if play resulted in interception name of the player that intercepted the ball
 - int_ret_yds - amount of yards for which interception was returned
 - sack - if play resulted in sack - 1, if not - 0
 - sack_yds - number of yards lost by offense due to sack
 - fumble - if there was a fumble on a play 1, if not - 0
+- fumble_td - if there was a fumble on a play that resulted in touchdown 1, if not - 0
 - fum_player - player who fumbled the ball
 - fum_force_player - player that forced the fumble
 - fum_recov_player - player who recovered the ball
