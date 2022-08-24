@@ -22,6 +22,7 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - away_team_final_score	- points by awayteam at the end of the game
 - home_team_final_score	- points by home team at the end of the game
 - game_week - week of the season in which the game took place
+- yardline_100 - number of yards left to go for a touchdown
 - passer - name of player that threw the pass
 - receiver - name of player that caught the pass
 - intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass (if information available)
