@@ -1,0 +1,73 @@
+ELF_plays_2022 columns description (all data from ELF official site):
+- play - type of play or event
+- situation - descriptive information about the play
+- qtr - quarter in which play took place
+- drive_num - drive number in the game
+- pos_team - team that has the ball (offensive formation) in current play
+- drive_plays - number of plays in the drive
+- drive_yards - number of yards gained or lost during that drive
+- drive_time - how much time the drive took
+- down - down for the specific play
+- yds_to_1st_down - yards to next first down
+- field_pos - field position 
+- game_date - game date in format YYMMDD
+- game_id - unique ID for game, combination of game date, first 3 letters of away team and first 3 letters of home team
+- season - season in which game took place
+- month - month in which game took place
+- date_full - full date of the game
+- game_hour - time at which the the game started
+- stadium_city - city in which game took place
+- away_team - away team
+- home_team - home team
+- away_team_final_score	- points by awayteam at the end of the game
+- home_team_final_score	- points by home team at the end of the game
+- game_week - week of the season in which the game took place
+- yardline_100 - number of yards left to go for a touchdown
+- passer - name of player that threw the pass
+- receiver - name of player that caught the pass
+- intended_receiver - name of player that caught the pass or was intended as a receiver in incomplete pass (if information available)
+- pass_attempt - 1 if pass was attempted, 0 if no pass attempt
+- pass_comp - if pass completed then 1, if incomplete then 0
+- passing_yds - yards gained/loss due to pass play
+- rusher - name of player that run with the ball in run play
+- rush_yds - yards gained/lost in a run play
+- yds_gained_per_play - yards gained in pass or rush play
+- td - if play resulted in TD - 1, if not - 0
+- pass_td - if play resulted in passing td - 1, if not - 0
+- rush_td - if play resulted in rushing td - 1, if not - 0
+- extra_point_attempt - if there was a try for extra point (PAT) in the play - 1, if not - 0. There is inconsistency in the source data - sometimes
+PAT are listed as a separate play and sometimes there are listed in line with TD play, therefore you might see situations
+where there will be PAT attempt indicated in column but the information in column play will say Rush or Pass instead
+of Point after try
+- extra_point_result - if extra point kick was tried it will show the result (good, failed)
+- fg_attempt - if there was a try for field goal on the play - 1, if not - 0
+- fg_attempt_result - if FG kick was tried it will show the result (good, missed, blocked)
+- fg_attempt_distance - FG distance
+- fg_kicker - player who was kicking the field goal
+- kickoff_player - kicker name
+- kickoff_yds - number of yards that the ball traveled during kickoff play
+- kickoff_returner - kickoff returner name
+- kickoff_ret_yds - amount of yards that the kick was returned for
+- punt - if there was a punt on the play - 1, if not - 0
+- punt_td - if a play resulted in punt touchdown - 1, if not - 0
+- punt_yds - number of yards that the ball traveled during punt play
+- punter - name of punter
+- timeout - if timeout was taken - 1 in not - 0
+- def_player_action - name/names of players who made defensive action (tackle, sack, int etc.)
+- int - if play resulted in interception - 1, if not - 0
+- int_td - interception resulting in touchdown 
+- int_player - if play resulted in interception name of the player that intercepted the ball
+- int_ret_yds - amount of yards for which interception was returned
+- sack - if play resulted in sack - 1, if not - 0
+- sack_yds - number of yards lost by offense due to sack
+- fumble - if there was a fumble on a play 1, if not - 0
+- fumble_td - if there was a fumble on a play that resulted in touchdown 1, if not - 0
+- fum_player - player who fumbled the ball
+- fum_force_player - player that forced the fumble
+- fum_recov_player - player who recovered the ball
+- fum_recov_team - team that recovered the ball
+- penalty - if there was penalty - 1 if not - 0
+- penalty_type - type of the penalty
+- penalty_yds - for how many yards the penalty was enforced
+- penalty_team - team which was penalized
+- penalty_player - player that have caused the penalty
