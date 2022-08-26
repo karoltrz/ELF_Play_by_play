@@ -56,7 +56,9 @@ of Point after try
 - punt_yds - number of yards that the ball traveled during punt play
 - punter - name of punter
 - timeout - if timeout was taken - 1 in not - 0
+- timeout_team - name of the team taking timeout
 - def_player_action - name/names of players who made defensive action (tackle, sack, int etc.)
+- safety - if there was a safety on play - 1, if not - 0
 - int - if play resulted in interception - 1, if not - 0
 - int_td - interception resulting in touchdown 
 - int_player - if play resulted in interception name of the player that intercepted the ball
