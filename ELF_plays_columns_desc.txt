@@ -4,6 +4,7 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - qtr - quarter in which play took place
 - drive_num - drive number in the game
 - pos_team - team that has the ball (offensive formation) in current play
+- drive_result - information how the drive has ended
 - drive_plays - number of plays in the drive
 - drive_yards - number of yards gained or lost during that drive
 - drive_time - how much time the drive took
@@ -35,11 +36,13 @@ ELF_plays_2022 columns description (all data from ELF official site):
 - td - if play resulted in TD - 1, if not - 0
 - pass_td - if play resulted in passing td - 1, if not - 0
 - rush_td - if play resulted in rushing td - 1, if not - 0
-- extra_point_attempt - if there was a try for extra point (PAT) in the play - 1, if not - 0. There is inconsistency in the source data - sometimes
+- extra_point_attempt - if there was a try for extra point kick in the play - 1, if not - 0. There is inconsistency in the source data - sometimes
 PAT are listed as a separate play and sometimes there are listed in line with TD play, therefore you might see situations
 where there will be PAT attempt indicated in column but the information in column play will say Rush or Pass instead
 of Point after try
 - extra_point_result - if extra point kick was tried it will show the result (good, failed)
+- 2pt_attempt - if there was a try for 2 point conversion on the play - 1, if not - 0
+- 2pt_attempt_result - if 2 point try conversion was successful - 1, in not - 0
 - fg_attempt - if there was a try for field goal on the play - 1, if not - 0
 - fg_attempt_result - if FG kick was tried it will show the result (good, missed, blocked)
 - fg_attempt_distance - FG distance
